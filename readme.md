@@ -12,6 +12,7 @@ This project aims to answer the constant question folks have about Matt in augus
 - Install `requirements.txt`
 - Make changes
 - Test them by running the flask server locally
+    - `python app.py`
 
 
 ## Deploying 
